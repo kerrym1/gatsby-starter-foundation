@@ -22,6 +22,10 @@ const MenuItems = [
     path: "/contact",
     title: "Contact",
   },
+  {
+    path: "/NewTest",
+    title: "New Test",
+  }
 ]
 
 const ListLink = props => (
