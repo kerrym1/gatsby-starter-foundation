@@ -1,9 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Get in touch with Alayna Tillman
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+You can visit my personal [website](http://bit.ly/alaynatillman), or send me an [email](mailto:alaynadtillman@gmail.com).
