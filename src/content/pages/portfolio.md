@@ -1,15 +1,15 @@
 ---
 template: index-page
 slug: /portfolio
-title: Alayna Tillman
+title: A CMU Student
 tagline: Technical Writer
-featuredImage: /assets/cmu-wordmark-square-w-on-r.png
+featuredImage: /assets/cmu-seal-r.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-# Alayna Tillman Portfolio
+# <My Name> Portfolio
 
 ## Marketing Examples
 

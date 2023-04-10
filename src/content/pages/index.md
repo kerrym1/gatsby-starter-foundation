@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Alayna Tillman
+title: A CMU Student
 tagline: Technical Writer
 featuredImage: /assets/cmu-wordmark-square-w-on-r.png
 cta:
