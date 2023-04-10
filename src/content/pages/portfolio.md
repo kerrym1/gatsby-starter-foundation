@@ -3,9 +3,10 @@ template: index-page
 slug: /portfolio
 title: A CMU Student
 tagline: Technical Writer
+featuredImage: /assets/cmu-seal-r.png
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Portfolio
+  ctaLink: /portfolio
 ---
 
 # <My Name> Portfolio

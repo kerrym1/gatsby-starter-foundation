@@ -4,8 +4,8 @@ slug: /services
 title: A CMU Student
 tagline: Technical Writer
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Services
+  ctaLink: /services
 ---
 
 # <My Name> Services
