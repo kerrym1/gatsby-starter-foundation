@@ -16,7 +16,7 @@ const MenuItems = [
   },
   {
     path: "/services",
-    title: "services",
+    title: "Services",
   },
   {
     path: "/contact",
