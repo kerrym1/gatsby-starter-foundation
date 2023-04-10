@@ -3,7 +3,7 @@ template: index-page
 slug: /portfolio
 title: Alayna Tillman
 tagline: Technical Writer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/cmu-wordmark-square-w-on-r.png
 cta:
   ctaText: Know more
   ctaLink: /about
