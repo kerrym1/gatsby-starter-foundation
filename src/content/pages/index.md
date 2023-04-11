@@ -18,13 +18,12 @@ My current website is found here. There you can find my portfolio, resume, and c
 
 What I Do?
 
-- Manage Docial Media
 - Create Designs
 - Write Copy
 - Develop Email Strategy
     
 What Industries do I cover?
 
-- HR
-- Technology
+- Environmental services
+- Engineering
 - Publishing
